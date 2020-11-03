@@ -1,11 +1,12 @@
 # Task1
 Simple app to handle numbers 
+]
 ##Motivation
 Created application purposes
 
 ##Command-line Instructions
- Prerequisites:
- Install the latest version of [Java](https://www.oracle.com/pl/java/technologies/javase-downloads.html) (min Java 8 )
+Prerequisites:
+Install the latest version of [Java](https://www.oracle.com/pl/java/technologies/javase-downloads.html) (min Java 8 )
 
  You may need to set your JAVA_HOME.
  
